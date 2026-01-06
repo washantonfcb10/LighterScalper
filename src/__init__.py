@@ -1,0 +1,1 @@
+# Lighter Scalper - Core modules
